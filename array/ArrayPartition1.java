@@ -42,6 +42,6 @@ public class ArrayPartition1 {
 
 }
 
-/*
-this is added to chnage
-*/
+/**
+ * This is test for pull
+ */
